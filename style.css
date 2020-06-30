@@ -1,6 +1,8 @@
 html, body {
 	background-image:
-		linear-gradient(to bottom, rgb(255, 153, 255), rgb(255, 204, 255);
+		linear-gradient(to bottom, 
+			rgb(255, 153, 255), 
+			rgb(255, 204, 255);
   font-family: american typewriter, serif;
 	color: rgb(46, 105, 163);
   margin: 0;
