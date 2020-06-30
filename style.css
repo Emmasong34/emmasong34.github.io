@@ -25,7 +25,7 @@ html, body {
 
 .experience {
 	text-align: center;
-	position: relative;
+	list-style-position: inside;
 
 }
 
