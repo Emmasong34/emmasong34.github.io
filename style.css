@@ -1,6 +1,6 @@
 html, body {
-  background-color: rgb(255, 165, 0);
-  font-family: garmond;
+  background-color: rgb(254, 235, 98);
+  font-family: optima, sans-serif;
 	color: rgb(46, 105, 163);
   margin: 0;
 	text-align: center;
@@ -9,8 +9,14 @@ html, body {
 }
 
 h1 {
-  font-size: 48px;
+  font-size: 55px;
 }
+
+h3 {
+  font-size: 2rem;
+}
+
+
 
 
 
