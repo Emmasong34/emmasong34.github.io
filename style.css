@@ -1,7 +1,7 @@
 html, body {
-  background-image url:('https://images.app.goo.gl/b6QYKm1ZMwReWFPq7');
+  background-image url:(https://images.app.goo.gl/b6QYKm1ZMwReWFPq7);
 	background-position: center top;
-  background-size: cover;
+  	background-size: cover;
   margin: 0;
   font-family: american typewriter, serif;
 	color: rgb(46, 105, 163);
