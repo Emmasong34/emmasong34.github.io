@@ -13,12 +13,16 @@ html, body {
   text-align: center;
 }
 
-
+.about {
+	padding: 30px;
+	border: 1px solid rgb(46, 105, 163);
+	text-align: center;
+}
 
 
 
 .experience {
-	text-align: left;
+	text-align: center;
 	display: flex;
 }
 
