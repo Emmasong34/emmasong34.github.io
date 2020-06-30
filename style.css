@@ -17,8 +17,9 @@ h3 {
 }
 
 .experience {
+	text-align: left;
 	display: flex;
-  flex-wrap: wrap;
+  	flex-wrap: wrap;
 }
 
 
