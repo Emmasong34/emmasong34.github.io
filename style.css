@@ -19,7 +19,6 @@ h3 {
 .experience {
 	display: flex;
   flex-wrap: wrap;
-  justify-content: center;
 }
 
 
